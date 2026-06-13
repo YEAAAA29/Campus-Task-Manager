@@ -73,6 +73,6 @@ npm run ios
 - Deadline states are computed from the due date and displayed with color-coded urgency.
 - The all-tasks view uses grouped sections, while category views use a flat list for simpler rendering.
 
-## Why This Project Stands Out
+## Documentation
 
-This project is intentionally built to show more than basic CRUD. It demonstrates a clean data flow, reusable UI components, practical persistence, and thoughtful performance choices. That makes it a good fit for a hackathon demo or an internship portfolio review.
+For a deeper technical walkthrough of the architecture, data flow, and implementation choices, see [DOCUMENTATION.md](DOCUMENTATION.md).
