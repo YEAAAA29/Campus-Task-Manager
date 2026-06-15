@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/.xcode.env.local
+*.xcworkspace/
+xcuserdata/
+
+# Android
+android/app/build/
+android/build/
+android/local.properties
+.gradle/
+
+# OS/IDE files
+.DS_Store
+.expo/
+*.log
